@@ -4,212 +4,310 @@
 
 ### MERN Stack Developer | JavaScript Developer | Full-Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Clean+Code+%7C+Clean+UI+%7C+Clean+Documentation;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<p>
+  <strong>Building scalable, responsive and interactive web applications with modern JavaScript technologies.</strong>
+</p>
 
-<br/>
+<p>
+  <a href="https://imhuzaifa.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Muhammad Huzaifa Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/huxaifawasif">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Huzaifa LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/sweet__dreamxx">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Muhammad Huzaifa Instagram"/>
+  </a>
+</p>
 
-<a href="https://imhuzaifa.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-imhuzaifa.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/huxaifawasif">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Huzaifa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/sweet__dreamxx">
-  <img src="https://img.shields.io/badge/Instagram-sweet__dreamxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=huxaifawasif&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=huxaifawasif&label=Profile%20Views&style=flat-square" alt="GitHub Profile Views"/>
+</p>
 
 </div>
+
+---
+
+<div align="center">
+
+<img align="right" width="380" src="./assets/coder.svg" alt="Muhammad Huzaifa Coding Illustration"/>
+
+### Open to Work
+
+I'm currently **open to opportunities** as a:
+
+* MERN Stack Developer
+* JavaScript Developer
+* React Developer
+* Full-Stack Web Developer
+* Frontend Developer
+* Backend Developer
+
+I'm interested in working with **professional teams, startups, agencies, and companies** where I can contribute to real-world products, solve meaningful problems, and continue growing as a developer.
+
+</div>
+
+<br clear="both"/>
 
 ---
 
 ## About Me
 
-I'm **Muhammad Huzaifa**, a **MERN Stack Developer** focused on building modern, responsive, interactive, and user-friendly web applications.
+Hi, I'm **Muhammad Huzaifa**, a **MERN Stack Developer and JavaScript Developer** passionate about creating modern, responsive, interactive, and user-focused web applications.
 
-I work primarily with **JavaScript and the MERN ecosystem**, combining strong frontend development with backend fundamentals to build complete web experiences.
+My primary development stack includes:
 
-I enjoy transforming ideas into functional products with a focus on:
+**MongoDB → Express.js → React.js → Node.js**
 
+I enjoy taking an idea from concept to a working product — from designing responsive interfaces and adding smooth interactions to developing backend APIs, connecting databases, debugging problems, and documenting the complete project.
+
+I focus on writing **clean, maintainable, reusable, and understandable code** while keeping the user experience and performance in mind.
+
+### What I bring to a development team
+
+* Strong JavaScript and ES6+ fundamentals
+* MERN Stack development
+* React component development
+* REST API development
+* MongoDB database integration
+* Responsive and modern UI development
+* GSAP animations and interactive experiences
+* Problem-solving and debugging
 * Clean and maintainable code
-* Responsive and accessible interfaces
-* Modern UI/UX implementation
-* Smooth animations and interactive experiences
-* Scalable backend architecture
-* RESTful API development
-* Database integration
-* Performance optimization
-* Problem solving and logical thinking
-* Professional project documentation
-
-> **My goal is not only to write code, but to build software that is understandable, maintainable, scalable, and valuable to users.**
+* Technical project documentation
+* Git and GitHub workflow
+* Team collaboration
+* Clear communication
+* Time management
+* Continuous learning
 
 ---
 
-## What I Do
+## My Development Approach
 
 ```text
-Frontend Development     → React, JavaScript, Tailwind CSS
-Backend Development      → Node.js, Express.js
-Database Development     → MongoDB, Mongoose
-Interactive Experiences  → GSAP, modern web animations
-API Development          → REST APIs & backend integration
-Project Documentation    → Clear README files & technical documentation
-Version Control          → Git & GitHub
+Understand the Problem
+        ↓
+Plan the Solution
+        ↓
+Design the User Experience
+        ↓
+Build the Frontend
+        ↓
+Develop the Backend & APIs
+        ↓
+Connect the Database
+        ↓
+Test & Debug
+        ↓
+Optimize
+        ↓
+Document the Project
+        ↓
+Deploy & Maintain
 ```
+
+I believe professional development is more than writing code.
+
+**Good software should be functional, maintainable, scalable, understandable, and easy for other developers to work with.**
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Core Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
+</a>
+
 </p>
 
-### Frontend
+### MERN Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React Tailwind Vite"/>
+<p align="left">
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="48" alt="React.js"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
+</a>
+
 </p>
 
-### Backend
+### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express.js"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React Tailwind CSS Vite"/>
+
 </p>
+
+**React.js · JavaScript ES6+ · Tailwind CSS · HTML5 · CSS3 · Responsive Design · Component-Based Architecture**
+
+### Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express.js"/>
+
+</p>
+
+**Node.js · Express.js · REST APIs · Server-Side Development · CRUD Operations**
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+
 </p>
 
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" alt="Git GitHub VS Code npm Postman"/>
-</p>
+**MongoDB · Mongoose · Database Integration · CRUD Operations**
 
 ### Animation & Interaction
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-  <br/>
-  <strong>GSAP • Interactive UI • Smooth Animations • Motion Design</strong>
+**GSAP · Interactive UI · Smooth Web Animations · Scroll Animations · Micro-interactions**
+
+### Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" alt="Git GitHub VS Code npm Postman"/>
+
 </p>
 
 ---
 
-## Core Skills
+## Professional Skills
 
-### Technical Skills
+<table>
+<tr>
+<td width="50%">
 
-* MERN Stack Development
-* JavaScript ES6+
-* React Development
-* Component-Based Architecture
-* Responsive Web Design
-* REST API Development
-* Node.js Backend Development
-* Express.js
-* MongoDB & Mongoose
-* Git & GitHub
-* Frontend Animation
-* GSAP
-* API Integration
-* CRUD Applications
-* Database Integration
-* Project Structuring
-* Performance Optimization
-* Clean Code Practices
-
-### Professional Skills
+### Development
 
 * Problem Solving
 * Logical Thinking
-* Debugging & Troubleshooting
-* Team Collaboration
-* Strong Communication
+* Debugging
+* Clean Code
+* Code Organization
+* API Integration
+* Responsive Development
+* Performance Awareness
+* Technical Documentation
+
+</td>
+
+<td width="50%">
+
+### Professional
+
+* Teamwork
+* Communication
 * Time Management
-* Attention to Detail
 * Adaptability
+* Attention to Detail
+* Project Ownership
 * Continuous Learning
 * Creative Thinking
-* Project Planning
-* Technical Documentation
-* Code Organization
-* Responsibility & Ownership
+* Collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Documentation Matters
+## Documentation & Code Quality
 
-I believe a good project is not complete when the code works.
+A project should not only **work** — it should also be easy for another developer to understand.
 
-A professional project should also be **easy for other developers to understand, install, use, maintain, and contribute to**.
-
-That's why I focus on creating clear project documentation including:
+I create structured and developer-friendly documentation covering:
 
 * Project overview
 * Features
 * Technology stack
 * Installation instructions
-* Environment configuration
+* Environment variables
 * Project structure
-* API information
+* API documentation
 * Usage instructions
 * Screenshots
+* Deployment information
 * Future improvements
 * Contribution guidelines
 
-**Clean code + clean documentation = a better developer experience.**
+### My principle
+
+> **Clean Code + Clear Documentation = Professional Software**
 
 ---
 
-## Coding & Creative Work
+## Coding Animation
 
 <div align="center">
 
-<!-- Replace this image with your own coding GIF/Lottie animation -->
+<img src="./assets/coder.svg" width="550" alt="Developer coding animation"/>
 
-<img src="./assets/coding-animation.gif" width="500" alt="Muhammad Huzaifa Coding Animation"/>
+<br/>
 
-### Building. Learning. Solving. Improving.
+### Build. Solve. Learn. Improve.
 
 </div>
 
-> **You can replace `./assets/coding-animation.gif` with your own GIF, Lottie export, WebP, or coding animation.**
+> Replace `./assets/coder.svg` with your preferred developer/coding SVG animation.
 
 ---
 
-## Development Philosophy
+## Featured Projects
 
-```text
-Write Clean Code
-       ↓
-Understand the Problem
-       ↓
-Plan the Solution
-       ↓
-Build the Product
-       ↓
-Test & Debug
-       ↓
-Optimize
-       ↓
-Document Everything
-       ↓
-Keep Learning
-```
+### Joy Hydration
 
-I believe strong developers don't just learn technologies.
+**Frontend web experience built with modern React technologies, animations and responsive UI.**
 
-They learn **how to think, solve problems, communicate ideas, and build solutions.**
+**Tech:** React.js · Tailwind CSS · GSAP · Framer Motion · Vite
+
+<a href="https://github.com/huxaifawasif/joy-hydration">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github" alt="Joy Hydration GitHub"/>
+</a>
+
+---
+
+### More Projects
+
+I continuously build and experiment with projects focused on:
+
+* MERN Stack Applications
+* E-commerce Platforms
+* React Interfaces
+* REST APIs
+* CRUD Applications
+* Admin Dashboards
+* Interactive Web Experiences
+* Full-Stack Applications
+
+**Explore my repositories to see my latest work.**
 
 ---
 
@@ -218,11 +316,11 @@ They learn **how to think, solve problems, communicate ideas, and build solution
 <div align="center">
 
 <a href="https://github.com/huxaifawasif">
-  <img src="https://github-readme-stats.vercel.app/api?username=huxaifawasif&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180" alt="Muhammad Huzaifa GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=huxaifawasif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Muhammad Huzaifa GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/huxaifawasif">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxaifawasif&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxaifawasif&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Muhammad Huzaifa Top Programming Languages"/>
 </a>
 
 </div>
@@ -233,17 +331,17 @@ They learn **how to think, solve problems, communicate ideas, and build solution
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=huxaifawasif&hide_border=true&theme=transparent" alt="Muhammad Huzaifa GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=huxaifawasif&hide_border=true&theme=transparent" alt="Muhammad Huzaifa GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huxaifawasif&hide_border=true&area=true&theme=github-compact" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huxaifawasif&bg_color=ffffff00&color=444444&line=2563eb&point=111827&area=true&hide_border=true" alt="Muhammad Huzaifa GitHub Contribution Graph"/>
 
 </div>
 
@@ -253,75 +351,75 @@ They learn **how to think, solve problems, communicate ideas, and build solution
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=huxaifawasif&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=huxaifawasif&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Muhammad Huzaifa GitHub Trophies"/>
 
 </div>
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/huxaifawasif">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huxaifawasif&repo=joy-hydration&hide_border=true&theme=transparent" alt="Joy Hydration"/>
-</a>
-
-</div>
-
-> More projects and case studies are available on my GitHub and portfolio.
-
----
-
-## Currently Focused On
+## Currently Learning & Improving
 
 ```text
-MERN Stack Development
-        +
 Advanced JavaScript
-        +
-Modern React Development
-        +
+       +
+React Development
+       +
+MERN Stack Architecture
+       +
 Backend Development
-        +
-Interactive Web Experiences
-        +
-Clean Architecture
-        +
+       +
+REST API Design
+       +
+Database Management
+       +
+Advanced UI Animation
+       +
+Performance Optimization
+       +
 Problem Solving
-        +
-Professional Documentation
 ```
+
+---
+
+## What I'm Looking For
+
+I'm interested in opportunities where I can:
+
+* Build real-world web applications
+* Work with experienced developers
+* Contribute to production projects
+* Solve challenging technical problems
+* Improve my full-stack development skills
+* Learn modern development practices
+* Collaborate with creative and technical teams
+* Build products that provide real value
+
+### Open to
+
+**Full-Time · Part-Time · Freelance · Remote · Contract · Collaboration**
 
 ---
 
 ## Let's Connect
 
-I'm always interested in:
-
-* Building interesting web applications
-* Collaborating on development projects
-* Learning new technologies
-* Solving challenging problems
-* Discussing modern web development
-* Working with developers and creative teams
+If you're a recruiter, developer, founder, startup, agency, or someone interested in building something together, feel free to connect.
 
 <div align="center">
 
 <a href="https://imhuzaifa.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-imhuzaifa.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Muhammad Huzaifa Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/huxaifawasif">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Huzaifa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Huzaifa LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/sweet__dreamxx">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-sweet__dreamxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Muhammad Huzaifa Instagram"/>
 </a>
 
 <a href="https://github.com/huxaifawasif">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-huxaifawasif-181717?style=for-the-badge&logo=github&logoColor=white" alt="Muhammad Huzaifa GitHub"/>
 </a>
 
 </div>
@@ -332,9 +430,7 @@ I'm always interested in:
 
 ### Muhammad Huzaifa
 
-**MERN Stack Developer**
-
-*Building modern web experiences with JavaScript, creativity, and problem-solving.*
+**MERN Stack Developer | JavaScript Developer | Full-Stack Web Developer**
 
 <br/>
 
