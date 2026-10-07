@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img align="right" width="380" src="./assets/coder.svg" alt="Muhammad Huzaifa Coding Illustration"/>
+<img align="right" width="380" src="coder.svg" alt="Muhammad Huzaifa Coding Illustration"/>
 
 ### Open to Work
 
